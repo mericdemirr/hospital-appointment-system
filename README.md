@@ -18,25 +18,25 @@ This is a user-friendly desktop application for managing hospital operations. It
 
 ### 1. Secure Login
 The entry point of the system.
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="400">
 
 ### 2. Admin Dashboard
 The main control panel for hospital staff.
-![Admin Dashboard](screenshots/admin.png)
+<img src="screenshots/admin.png" width="450">
 
 ### 3. Patient & Doctor Management
 Database management for hospital personnel and patients.
-![Doctor Management](screenshots/doctor.png)
-![Patient Management](screenshots/patient.png)
+<img src="screenshots/doctor.png" width="400">
+<img src="screenshots/patient.png" width="400">
 
 ### 4. Appointment & Medical Notes
 Managing schedules and patient health details.
-![Appointments](screenshots/appointment.png)
-![Diagnosis and Prescription](screenshots/diagnosis.png)
+<img src="screenshots/appointment.png" width="450">
+<img src="screenshots/diagnosis.png" width="450">
 
 ### 5. Smart Error Handling
 Prevents double-booking for the same doctor.
-![Collision Error](screenshots/colllision.png)
+<img src="screenshots/colllision.png" width="400">
 
 ---
 
