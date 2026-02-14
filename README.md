@@ -16,27 +16,25 @@ This is a user-friendly desktop application for managing hospital operations. It
 
 ## 📸 System Preview
 
-### 1. Secure Login
-The entry point of the system.
-<img src="screenshots/login.png" width="400">
+| 1. Secure Login | 2. Admin Dashboard |
+|:---:|:---:|
+| The entry point of the system. | The main control panel for hospital staff. |
+| <img src="screenshots/login.png" width="380"> | <img src="screenshots/admin.png" width="380"> |
 
-### 2. Admin Dashboard
-The main control panel for hospital staff.
-<img src="screenshots/admin.png" width="450">
+| 3. Patient & Doctor Management | |
+|:---:|:---:|
+| Database management for hospital personnel and patients. | |
+| <img src="screenshots/doctor.png" width="380"> | <img src="screenshots/patient.png" width="380"> |
 
-### 3. Patient & Doctor Management
-Database management for hospital personnel and patients.
-<img src="screenshots/doctor.png" width="400">
-<img src="screenshots/patient.png" width="400">
+| 4. Appointment & Medical Notes | |
+|:---:|:---:|
+| Managing schedules and patient health details. | |
+| <img src="screenshots/appointment.png" width="380"> | <img src="screenshots/diagnosis.png" width="380"> |
 
-### 4. Appointment & Medical Notes
-Managing schedules and patient health details.
-<img src="screenshots/appointment.png" width="450">
-<img src="screenshots/diagnosis.png" width="450">
-
-### 5. Smart Error Handling
-Prevents double-booking for the same doctor.
-<img src="screenshots/colllision.png" width="400">
+| 5. Smart Error Handling | |
+|:---:|:---:|
+| Prevents double-booking for the same doctor. | |
+| <img src="screenshots/colllision.png" width="380"> | |
 
 ---
 
@@ -51,7 +49,7 @@ Prevents double-booking for the same doctor.
 
 ## 🚀 How to Run
 
-1.  Clone the repository.
-2.  Add the `sqlite-jdbc` library to your project's classpath.
-3.  Run the **`HospitalSystem.java`** file.
-4.  The system will automatically create the `hospital.db` database on the first run.
+1. Clone the repository.
+2. Add the `sqlite-jdbc` library to your project's classpath.
+3. Run the **`HospitalSystem.java`** file.
+4. The system will automatically create the `hospital.db` database on the first run.
